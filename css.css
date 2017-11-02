@@ -48,7 +48,8 @@ img.icon {
 
 .container {
    
-    margin: 10 500;
+    margin: auto;
+    width: 25vw;
 
 
 }
